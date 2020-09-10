@@ -3,7 +3,7 @@ title: kbdnr
 url: https://kbdnr.github.io
 paginate: 1
 paginate_path: "/page:num/"
-baseurl: ""
+baseurl: "/dark-poole"
 permalink: pretty
 
 # Gems
@@ -43,10 +43,10 @@ version: 3.0.0
 # Navbar page list
 nav:
   - title: Calendar
-    url: /calendar
+    url: /dark-poole/calendar
 
   - title: About
-    url: /about
+    url: /dark-poole/about
 
   - title: Archive
-    url: /archive
+    url: /dark-poole/archive
