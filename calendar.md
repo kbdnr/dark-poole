@@ -6,10 +6,11 @@ title: Calendar
 I will do my best to maintain a listing of upcoming and notable past performances here with links to archived material if it exists!
 
 # Upcoming
-- SEPT 17 2020 - [Not Mass](https://www.twitch.tv/hotmasspgh) [DJ] (Interwebz)
-- SEPT 19 2020 - TOPLAP MX VR (Currents.fm) (Interwebz)
 
 # Past
+- MAR 26 2021 - NIGHT EXPORT [LIVE] (Interwebz)
+- SEPT 17 2020 - [Not Mass](https://www.twitch.tv/hotmasspgh) [DJ] (Interwebz)
+- SEPT 19 2020 - TOPLAP MX VR (Currents.fm) (Interwebz)
 - SEPT 5 2020 - [Experimental Sound Studio](https://ess.org/esscalendar/tqc-collision) Live A/V VR (Interwebz)
 - JUL 20 2020 - as [DXGPVWZ](https://vimeo.com/dxgpvwz/#/preview) (A/V) for Apizza Night Unifactor Takeover(Interwebz)
 - MAY 23 2020 - [Renraku Global Relay](https://soundcloud.com/spednar/renraku-global-relay-dj-set) [DJ] (Interwebz)
