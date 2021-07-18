@@ -10,6 +10,7 @@ In 2018, he began developing and performing with a custom software package 'Audi
 
 ## RELEASES
 ### ALBUMS/EPS
+- 2021 - [DISHEVELED/SPEDNAR SPLIT - THAC0 RECORDS](https://thac0records.bandcamp.com/album/disheveled-spednar-split)
 - 2021 - [CONIUNCTIO - UNIFACTOR](https://unifactor.bandcamp.com/album/coniunctio)
 - 2018 - [S/T - THAC0 RECORDS](https://thac0records.bandcamp.com/album/spednar)
 - 2018 - [CODE 412 - CO-DEPENDENT](https://co-dependent.bandcamp.com/album/code412)
